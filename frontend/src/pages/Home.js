@@ -2,8 +2,8 @@ import React from 'react';
 import { Box, Container } from '@mui/material';
 import { Button } from '@mui/material';
 import { Link } from 'react-router-dom';
-import logo from '../assets/images/rydelogo2.png';
-import logoWhite from '../assets/images/logo-white.png';
+import logo from '../assets/images/triplogo2.jpg';
+// import logoWhite from '../assets/images/logo-white.png';
 import ThemeToggler from '../components/ThemeToggler';
 
 const Home = () => {

@@ -13,8 +13,8 @@ import MenuIcon from '@mui/icons-material/Menu';
 import ChevronLeftIcon from '@mui/icons-material/ChevronLeft';
 import MenuItems from '../components/Dashboard/MenuItems';
 import { Link, Outlet, useLocation } from 'react-router-dom';
-import logo from '../assets/images/rydelogo2.png';
-import logoWhite from '../assets/images/logo-white.png';
+import logo from '../assets/images/triplogo2.jpg';
+// import logoWhite from '../assets/images/logo-white.png';
 import ThemeToggler from '../components/ThemeToggler';
 
 

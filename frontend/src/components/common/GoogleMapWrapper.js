@@ -108,7 +108,7 @@ export default function GoogleMapWrapper({ data = [], type }) {
         <Box sx={{ height: '65vh', width: '100%', mt: 2 }}>
 
             <GoogleMapReact
-                bootstrapURLKeys={{ key: "AIzaSyASgBw-4XeHUA3fYU3npK2wno70GDXHROY" }}
+                bootstrapURLKeys={{ key: "" }}
                 defaultCenter={defaultProps.center}
                 defaultZoom={defaultProps.zoom}
                 yesIWantToUseGoogleMapApiInternals
